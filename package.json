@@ -1,0 +1,26 @@
+{
+  "name": "js-lib",
+  "version": "1.0.0",
+  "description": "test library for npm",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/namjo/js-testlib.git"
+  },
+  "keywords": [
+    "testlibrary",
+    "javascript"
+  ],
+  "author": "namjo <nam.johannes@gmail.com> (https://github.com/namjo)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/namjo/js-testlib/issues"
+  },
+  "homepage": "https://github.com/namjo/js-testlib#readme",
+  "dependencies": {
+    "unique-random-array": "1.0.0"
+  }
+}
